@@ -70,7 +70,8 @@ Below is the example of how the script was to work:
 Below are two commands one can use to check some requirements:
 <img width="505" alt="Screen Shot 2022-04-28 at 10 31 45 PM" src="https://user-images.githubusercontent.com/12897177/165831492-9d11210f-b55f-4ac3-9241-538c3db9b4d8.png">
 
-##Bonuses realized
+##Bonuses
+
 • I was to set up partitions correctly to get a structure similar to the one below:
 In this part the partition sizes did not match to the ones shown on the picture as the system holds some percentage.
 
@@ -80,7 +81,17 @@ In this part the partition sizes did not match to the ones shown on the picture 
 • I had to set up a service of my choice that is useful (NGINX / Apache2 excluded!). 
 I installed ADMINER because it is more comfortable to see data with the help of graphical interface.
 
+Here is the sample of the video of my defence:
+
+
+
+https://user-images.githubusercontent.com/12897177/165836405-c1049795-876c-42e2-8220-b82cf04306f2.mp4
+
+
+
 Below is the link to the full video recorded during my defence of the project.
+https://disk.yandex.ru/i/V_HOE9nrCoGwyA
+
 My final result was 125%
 
 
